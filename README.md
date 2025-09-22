@@ -1,2 +1,2 @@
-# https-tu-nombre.netlify.app
+https://halflifebox.vercel.app
 trabajos de enpresarial arg
